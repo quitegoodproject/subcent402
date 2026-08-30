@@ -1,0 +1,25 @@
+{
+  "name": "@quitegoodproject/subcent402",
+  "version": "1.0.0",
+  "description": "Universal M2M Micro-Payment Protocol & MCP Paywall Standard for Autonomous AI Agents.",
+  "main": "dist/index.js",
+  "type": "module",
+  "keywords": [
+    "subcent402",
+    "m2m-payments",
+    "l402",
+    "http-402",
+    "mcp-paywall",
+    "ai-agents",
+    "base-usdc",
+    "lightning",
+    "quitegoodproject"
+  ],
+  "author": "The Quite Good Project <engineering@quitegoodproject.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/quitegoodproject/subcent402"
+  },
+  "homepage": "https://subcent402.com"
+}
