@@ -19,7 +19,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/quitegoodproject/subcent402"
+    "url": "git+https://github.com/quitegoodproject/subcent402.git"
   },
-  "homepage": "https://subcent402.com"
+  "homepage": "https://quitegoodproject.com",
+  "publishConfig": {
+    "access": "public"
+  }
 }
